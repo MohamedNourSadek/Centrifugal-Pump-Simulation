@@ -1,6 +1,6 @@
 # CentrifugalPump
 
-## A simple Pump simulation.
+## A simple Pump simulation as a task for a job interview.
 
 ## Some Screenshots.
 
